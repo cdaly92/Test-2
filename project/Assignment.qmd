@@ -1,0 +1,136 @@
+---
+title: "When there is more than enough food in the world, why are so many babies suffering from the lack of Diet Diversity?"
+format: html
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+## The focus here is on diet diversity in babies from the ages of 6 months to 23 months, why this is caused and other effects as a result.
+
+### Diet Diversity
+
+*Diet diversity* plays a crucial role in impacting the health and development of babies in several ways. It impacts their growth and development in addition to helping develop a heathly eating habits for the future. Overall, *diet diversity* during infancy lays the foundation for lifelong health and well-being, emphasizing the importance of promoting access to nutritious and varied foods for babies worldwide which Unicef are trying to do. Unfortunately, as shown in the **bar chart**, many countries have very little *diet diversity* among babies and this can be different in some cases depending on the baby's sex.
+
+```{r}
+#| label: setup
+#| include: true
+library(tidyverse)
+
+indicator_1 <- read.csv("/cloud/project/unicef_indicator_1.csv")
+diet_diversity_2015 <- indicator_1 %>%
+  filter(time_period == 2015) %>%
+  filter(sex != "Total")
+
+ggplot(data = diet_diversity_2015) + 
+  aes(x = alpha_2_code, y = obs_value, fill = country) +
+  geom_col() +
+  facet_wrap(~ sex, nrow = 2) +
+  guides(fill ="none") +
+  labs( x = "Country",
+        y = "Diet Diversity %",
+        title = "Diet Diversity in 2015") +
+  theme_classic()
+```
+
+### Diet Diversity and Other Factors
+
+```{r}
+average_per_year <- indicator_1 %>%
+  group_by(time_period) %>%
+  summarise(average_value = mean(obs_value))
+
+ggplot(average_per_year, aes(x = time_period, y = average_value)) +
+  geom_line(color = "pink") +
+  geom_point(color = "blue") +
+  labs(x = "Year", 
+       y = "Average Diet Diversity", 
+       title = "Trend of Diet Diversity in all Third World Countries")+
+  theme_classic()
+```
+As shown in the **scatterplot** above, the average *diet diversity* in all third world countries hasn't changed much over that past decade. It has remained nearly constant around 40% with a couple dips and rises but never increased massively. 
+
+
+There is clearly a correlation between life expectancy at birth and *diet diversity* as shown below. The **trend line** suggests that babies who have a higher *diet diversity* also have a higher average life expectancy. This could be as a result of better nutrition, access to more foods and normally a higher income so you can provide these benefits.
+
+```{r}
+meta_data <- read.csv("/cloud/project/unicef_metadata.csv")
+data_join <- full_join(meta_data, indicator_1, by = join_by(country, time_period))
+
+ggplot(data = data_join) +
+  aes( x = obs_value, y = Life.expectancy) +
+  geom_point(color = "pink") +
+  labs(x = "Diet Diversity between 6 and 23 months",
+       y = "Life Expectancy",
+       title = "Life Expectancy and Diet Diversity for Babies")+
+  theme_classic() +
+  geom_smooth(color = "blue")
+```
+Income significantly affects a baby's *diet diversity* in third world countries. Families with higher incomes generally have greater access to a variety of nutritious foods, including
+
+- fruits 
+- vegetables
+- proteins
+- dairy products
+
+In contrast, families with lower incomes often face barriers to accessing diverse foods due to financial constraints. As a result, they may rely more heavily on cheaper, calorie-dense but nutrient-poor foods. Additionally, lower-income families may lack access to healthcare and nutrition education resources, further exacerbating the challenges of providing a diverse diet for their infants. Thus, income inequality plays a significant role in shaping the dietary diversity and overall nutritional status of babies in third world countries.
+```{r}
+ggplot(data = data_join) +
+  aes(x = obs_value, y = GDP.per.capita)+
+  geom_point(color = "pink") +
+  labs(x = "Diet Diversity %",
+       y = "GDP per Capita",
+       title = "Diet Diversity and GDP per Capita in 2015") +
+  theme_classic() +
+  scale_y_continuous(limits = c(0,5000))+
+  geom_smooth()
+```
+### Diet Diversity and School Attendance
+
+Income also impacts school attendance in third world countries. Many low-income families struggle to afford the costs associated with education, such as 
+
+- school fees
+- uniforms
+- books
+- transportation
+
+They also may prioritize immediate needs such as food and shelter over education, especially if they perceive education as less essential for their children's immediate survival or earning potential. They will put their limited funds towards basic foods as stated above. Therefore, this would indicate kids with low *diet diversity* also will probably have lower school attendance rates. This can be seen in the comparing **map graphs** below. For example, Kazakhstan has one of the highest diet diversity rates in 2015 as well as high school attendance rate among the upper secondary school age.
+
+```{r}
+library(maps)
+
+dd_2015 <- indicator_1 %>%
+  filter(time_period == 2015)
+
+map_world <- map_data("world")
+
+map_dd_2015 <- full_join(map_world, dd_2015, by = c("region" = "country"))
+
+ggplot(data = map_dd_2015) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon()+
+  labs(x = " ",
+       y = " ",
+       title = "Diet Diveristy per Country in 2015",
+       fill = "Diet Diversity %")+
+  theme_classic()
+```
+
+```{r}
+indicator_2 <- read.csv("/cloud/project/unicef_indicator_2.csv")
+Attendance_2015 <- indicator_2 %>%
+  filter(time_period ==2015)
+
+map_attendance_2015 <- full_join(map_world, Attendance_2015, by = c("region" = "country"))
+
+ggplot(data = map_attendance_2015) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  labs( x = " ",
+        y = " ",
+        title = "School Attendance Rates per Country",
+        fill = "Attendance Rates")+
+  theme_classic()
+
+```
+

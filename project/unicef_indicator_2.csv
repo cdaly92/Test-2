@@ -1,0 +1,340 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Adjusted net attendance rate for youth of upper secondary school age,2015,18.9,Female,,%,,,,Total
+Afghanistan,AF,AFG,4,Adjusted net attendance rate for youth of upper secondary school age,2015,37.099998,Male,,%,,,,Total
+Afghanistan,AF,AFG,4,Adjusted net attendance rate for youth of upper secondary school age,2015,28,Total,,%,,,,Total
+Albania,AL,ALB,8,Adjusted net attendance rate for youth of upper secondary school age,2018,79.726959,Female,,%,,,,Total
+Albania,AL,ALB,8,Adjusted net attendance rate for youth of upper secondary school age,2018,75.529243,Male,,%,,,,Total
+Albania,AL,ALB,8,Adjusted net attendance rate for youth of upper secondary school age,2018,77.643913,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Adjusted net attendance rate for youth of upper secondary school age,2020,61.73978,Female,,%,,,,Total
+Algeria,DZ,DZA,12,Adjusted net attendance rate for youth of upper secondary school age,2020,40.360901,Male,,%,,,,Total
+Algeria,DZ,DZA,12,Adjusted net attendance rate for youth of upper secondary school age,2020,50.61705,Total,,%,,,,Total
+Angola,AO,AGO,24,Adjusted net attendance rate for youth of upper secondary school age,2016,28.1,Female,,%,,,,Total
+Angola,AO,AGO,24,Adjusted net attendance rate for youth of upper secondary school age,2016,32.099998,Male,,%,,,,Total
+Angola,AO,AGO,24,Adjusted net attendance rate for youth of upper secondary school age,2016,30,Total,,%,,,,Total
+Argentina,AR,ARG,32,Adjusted net attendance rate for youth of upper secondary school age,2020,70.54908,Female,,%,,,,Total
+Argentina,AR,ARG,32,Adjusted net attendance rate for youth of upper secondary school age,2020,62.77586,Male,,%,,,,Total
+Argentina,AR,ARG,32,Adjusted net attendance rate for youth of upper secondary school age,2020,66.585091,Total,,%,,,,Total
+Armenia,AM,ARM,51,Adjusted net attendance rate for youth of upper secondary school age,2016,89.055801,Female,,%,,,,Total
+Armenia,AM,ARM,51,Adjusted net attendance rate for youth of upper secondary school age,2016,81.369759,Male,,%,,,,Total
+Armenia,AM,ARM,51,Adjusted net attendance rate for youth of upper secondary school age,2016,85.180359,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Adjusted net attendance rate for youth of upper secondary school age,2019,53.400002,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Adjusted net attendance rate for youth of upper secondary school age,2019,43.099998,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Adjusted net attendance rate for youth of upper secondary school age,2019,48.099998,Total,,%,,,,Total
+Barbados,BB,BRB,52,Adjusted net attendance rate for youth of upper secondary school age,2012,79.699997,Female,,%,,,,Total
+Barbados,BB,BRB,52,Adjusted net attendance rate for youth of upper secondary school age,2012,84.300003,Male,,%,,,,Total
+Barbados,BB,BRB,52,Adjusted net attendance rate for youth of upper secondary school age,2012,82,Total,,%,,,,Total
+Belarus,BY,BLR,112,Adjusted net attendance rate for youth of upper secondary school age,2020,85.628403,Female,,%,,,,Total
+Belarus,BY,BLR,112,Adjusted net attendance rate for youth of upper secondary school age,2020,88.353638,Male,,%,,,,Total
+Belarus,BY,BLR,112,Adjusted net attendance rate for youth of upper secondary school age,2020,86.753616,Total,,%,,,,Total
+Benin,BJ,BEN,204,Adjusted net attendance rate for youth of upper secondary school age,2018,9,Female,,%,,,,Total
+Benin,BJ,BEN,204,Adjusted net attendance rate for youth of upper secondary school age,2018,14.8,Male,,%,,,,Total
+Benin,BJ,BEN,204,Adjusted net attendance rate for youth of upper secondary school age,2018,11.8,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Adjusted net attendance rate for youth of upper secondary school age,2010,25.700001,Female,,%,,,,Total
+Bhutan,BT,BTN,64,Adjusted net attendance rate for youth of upper secondary school age,2010,21.799999,Male,,%,,,,Total
+Bhutan,BT,BTN,64,Adjusted net attendance rate for youth of upper secondary school age,2010,23.700001,Total,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Adjusted net attendance rate for youth of upper secondary school age,2016,75.37719,Female,,%,,,,Total
+Bolivia,BO,BOL,68,Adjusted net attendance rate for youth of upper secondary school age,2016,75.37719,Female,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Adjusted net attendance rate for youth of upper secondary school age,2016,71.19976,Male,,%,,,,Total
+Bolivia,BO,BOL,68,Adjusted net attendance rate for youth of upper secondary school age,2016,71.19976,Male,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Adjusted net attendance rate for youth of upper secondary school age,2016,73.185493,Total,,%,,,,Total
+Bolivia,BO,BOL,68,Adjusted net attendance rate for youth of upper secondary school age,2016,73.185493,Total,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Adjusted net attendance rate for youth of upper secondary school age,2012,93.099998,Female,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Adjusted net attendance rate for youth of upper secondary school age,2012,90.400002,Male,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Adjusted net attendance rate for youth of upper secondary school age,2012,91.800003,Total,,%,,,,Total
+Brazil,BR,BRA,76,Adjusted net attendance rate for youth of upper secondary school age,2019,69.760559,Female,,%,,,,Total
+Brazil,BR,BRA,76,Adjusted net attendance rate for youth of upper secondary school age,2019,60.656349,Male,,%,,,,Total
+Brazil,BR,BRA,76,Adjusted net attendance rate for youth of upper secondary school age,2019,65.119377,Total,,%,,,,Total
+Burkina Faso,BF,BFA,854,Adjusted net attendance rate for youth of upper secondary school age,2010,3.4000001,Female,,%,,,,Total
+Burkina Faso,BF,BFA,854,Adjusted net attendance rate for youth of upper secondary school age,2010,6,Male,,%,,,,Total
+Burkina Faso,BF,BFA,854,Adjusted net attendance rate for youth of upper secondary school age,2010,4.5999999,Total,,%,,,,Total
+Burundi,BI,BDI,108,Adjusted net attendance rate for youth of upper secondary school age,2017,11.53744,Female,,%,,,,Total
+Burundi,BI,BDI,108,Adjusted net attendance rate for youth of upper secondary school age,2017,12.55773,Male,,%,,,,Total
+Burundi,BI,BDI,108,Adjusted net attendance rate for youth of upper secondary school age,2017,12.01498,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Adjusted net attendance rate for youth of upper secondary school age,2014,27.1,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Adjusted net attendance rate for youth of upper secondary school age,2014,25.700001,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Adjusted net attendance rate for youth of upper secondary school age,2014,26.4,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Adjusted net attendance rate for youth of upper secondary school age,2018,27.413549,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Adjusted net attendance rate for youth of upper secondary school age,2018,27.97846,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Adjusted net attendance rate for youth of upper secondary school age,2018,27.68325,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Adjusted net attendance rate for youth of upper secondary school age,2019,4.3049488,Female,,%,,,,Total
+Central African Republic,CF,CAF,140,Adjusted net attendance rate for youth of upper secondary school age,2019,6.5270038,Male,,%,,,,Total
+Central African Republic,CF,CAF,140,Adjusted net attendance rate for youth of upper secondary school age,2019,5.363203,Total,,%,,,,Total
+Chad,TD,TCD,148,Adjusted net attendance rate for youth of upper secondary school age,2019,4.8575859,Female,,%,,,,Total
+Chad,TD,TCD,148,Adjusted net attendance rate for youth of upper secondary school age,2019,8.3924627,Male,,%,,,,Total
+Chad,TD,TCD,148,Adjusted net attendance rate for youth of upper secondary school age,2019,6.6605349,Total,,%,,,,Total
+Chile,CL,CHL,152,Adjusted net attendance rate for youth of upper secondary school age,2017,76.400002,Female,,%,,,,Total
+Chile,CL,CHL,152,Adjusted net attendance rate for youth of upper secondary school age,2017,72.400002,Male,,%,,,,Total
+Chile,CL,CHL,152,Adjusted net attendance rate for youth of upper secondary school age,2017,74.300003,Total,,%,,,,Total
+China,CN,CHN,156,Adjusted net attendance rate for youth of upper secondary school age,2015,61.900002,Female,,%,,,,Total
+China,CN,CHN,156,Adjusted net attendance rate for youth of upper secondary school age,2015,57.599998,Male,,%,,,,Total
+China,CN,CHN,156,Adjusted net attendance rate for youth of upper secondary school age,2015,59.599998,Total,,%,,,,Total
+Colombia,CO,COL,170,Adjusted net attendance rate for youth of upper secondary school age,2015,53.400002,Female,,%,,,,Total
+Colombia,CO,COL,170,Adjusted net attendance rate for youth of upper secondary school age,2015,43.200001,Male,,%,,,,Total
+Colombia,CO,COL,170,Adjusted net attendance rate for youth of upper secondary school age,2015,48.099998,Total,,%,,,,Total
+Comoros,KM,COM,174,Adjusted net attendance rate for youth of upper secondary school age,2012,28.700001,Female,,%,,,,Total
+Comoros,KM,COM,174,Adjusted net attendance rate for youth of upper secondary school age,2012,25.299999,Male,,%,,,,Total
+Comoros,KM,COM,174,Adjusted net attendance rate for youth of upper secondary school age,2012,27.200001,Total,,%,,,,Total
+Congo,CG,COG,178,Adjusted net attendance rate for youth of upper secondary school age,2015,35.12241,Female,,%,,,,Total
+Congo,CG,COG,178,Adjusted net attendance rate for youth of upper secondary school age,2015,37.763161,Male,,%,,,,Total
+Congo,CG,COG,178,Adjusted net attendance rate for youth of upper secondary school age,2015,36.497299,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Adjusted net attendance rate for youth of upper secondary school age,2018,52.757801,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Adjusted net attendance rate for youth of upper secondary school age,2018,39.4408,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Adjusted net attendance rate for youth of upper secondary school age,2018,45.93264,Total,,%,,,,Total
+Cuba,CU,CUB,192,Adjusted net attendance rate for youth of upper secondary school age,2019,77.833992,Female,,%,,,,Total
+Cuba,CU,CUB,192,Adjusted net attendance rate for youth of upper secondary school age,2019,69.460213,Male,,%,,,,Total
+Cuba,CU,CUB,192,Adjusted net attendance rate for youth of upper secondary school age,2019,73.453003,Total,,%,,,,Total
+Côte d'Ivoire,CI,CIV,384,Adjusted net attendance rate for youth of upper secondary school age,2016,13.53492,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Adjusted net attendance rate for youth of upper secondary school age,2016,13.53492,Female,,%,,,,Total
+Côte d'Ivoire,CI,CIV,384,Adjusted net attendance rate for youth of upper secondary school age,2016,20.240379,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Adjusted net attendance rate for youth of upper secondary school age,2016,20.240379,Male,,%,,,,Total
+Côte d'Ivoire,CI,CIV,384,Adjusted net attendance rate for youth of upper secondary school age,2016,16.80126,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Adjusted net attendance rate for youth of upper secondary school age,2016,16.80126,Total,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Adjusted net attendance rate for youth of upper secondary school age,2017,94.900002,Female,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Adjusted net attendance rate for youth of upper secondary school age,2017,94.699997,Male,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Adjusted net attendance rate for youth of upper secondary school age,2017,94.800003,Total,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Adjusted net attendance rate for youth of upper secondary school age,2018,32.855042,Female,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Adjusted net attendance rate for youth of upper secondary school age,2018,35.86422,Male,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Adjusted net attendance rate for youth of upper secondary school age,2018,34.294739,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Adjusted net attendance rate for youth of upper secondary school age,2019,73.570961,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Adjusted net attendance rate for youth of upper secondary school age,2019,58.523479,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Adjusted net attendance rate for youth of upper secondary school age,2019,65.791359,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Adjusted net attendance rate for youth of upper secondary school age,2019,72.599998,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Adjusted net attendance rate for youth of upper secondary school age,2019,69.5,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Adjusted net attendance rate for youth of upper secondary school age,2019,70.900002,Total,,%,,,,Total
+Egypt,EG,EGY,818,Adjusted net attendance rate for youth of upper secondary school age,2014,68.099998,Female,,%,,,,Total
+Egypt,EG,EGY,818,Adjusted net attendance rate for youth of upper secondary school age,2014,70.900002,Male,,%,,,,Total
+Egypt,EG,EGY,818,Adjusted net attendance rate for youth of upper secondary school age,2014,69.5,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Adjusted net attendance rate for youth of upper secondary school age,2014,56.299999,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Adjusted net attendance rate for youth of upper secondary school age,2014,42.599998,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Adjusted net attendance rate for youth of upper secondary school age,2014,43.799999,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Adjusted net attendance rate for youth of upper secondary school age,2016,9.0251455,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Adjusted net attendance rate for youth of upper secondary school age,2016,6.6898718,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Adjusted net attendance rate for youth of upper secondary school age,2016,7.9242129,Total,,%,,,,Total
+Gabon,GA,GAB,266,Adjusted net attendance rate for youth of upper secondary school age,2012,18.6,Female,,%,,,,Total
+Gabon,GA,GAB,266,Adjusted net attendance rate for youth of upper secondary school age,2012,13,Male,,%,,,,Total
+Gabon,GA,GAB,266,Adjusted net attendance rate for youth of upper secondary school age,2012,15.9,Total,,%,,,,Total
+Gambia,GM,GMB,270,Adjusted net attendance rate for youth of upper secondary school age,2018,32.200001,Female,,%,,,,Total
+Gambia,GM,GMB,270,Adjusted net attendance rate for youth of upper secondary school age,2018,29,Male,,%,,,,Total
+Gambia,GM,GMB,270,Adjusted net attendance rate for youth of upper secondary school age,2018,30.700001,Total,,%,,,,Total
+Georgia,GE,GEO,268,Adjusted net attendance rate for youth of upper secondary school age,2018,86.800003,Female,,%,,,,Total
+Georgia,GE,GEO,268,Adjusted net attendance rate for youth of upper secondary school age,2018,82.900002,Male,,%,,,,Total
+Georgia,GE,GEO,268,Adjusted net attendance rate for youth of upper secondary school age,2018,84.599998,Total,,%,,,,Total
+Ghana,GH,GHA,288,Adjusted net attendance rate for youth of upper secondary school age,2018,19.26824,Female,,%,,,,Total
+Ghana,GH,GHA,288,Adjusted net attendance rate for youth of upper secondary school age,2018,19.94031,Male,,%,,,,Total
+Ghana,GH,GHA,288,Adjusted net attendance rate for youth of upper secondary school age,2018,19.628309,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Adjusted net attendance rate for youth of upper secondary school age,2015,29.299999,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Adjusted net attendance rate for youth of upper secondary school age,2015,33.599998,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Adjusted net attendance rate for youth of upper secondary school age,2015,31.4,Total,,%,,,,Total
+Guinea,GN,GIN,324,Adjusted net attendance rate for youth of upper secondary school age,2018,11.23958,Female,,%,,,,Total
+Guinea,GN,GIN,324,Adjusted net attendance rate for youth of upper secondary school age,2018,14.633,Male,,%,,,,Total
+Guinea,GN,GIN,324,Adjusted net attendance rate for youth of upper secondary school age,2018,12.72644,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Adjusted net attendance rate for youth of upper secondary school age,2019,7.256999,Female,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Adjusted net attendance rate for youth of upper secondary school age,2019,6.4768138,Male,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Adjusted net attendance rate for youth of upper secondary school age,2019,6.8644242,Total,,%,,,,Total
+Guyana,GY,GUY,328,Adjusted net attendance rate for youth of upper secondary school age,2020,80.850723,Female,,%,,,,Total
+Guyana,GY,GUY,328,Adjusted net attendance rate for youth of upper secondary school age,2020,68.048607,Male,,%,,,,Total
+Guyana,GY,GUY,328,Adjusted net attendance rate for youth of upper secondary school age,2020,74.199951,Total,,%,,,,Total
+Haiti,HT,HTI,332,Adjusted net attendance rate for youth of upper secondary school age,2017,23.124969,Female,,%,,,,Total
+Haiti,HT,HTI,332,Adjusted net attendance rate for youth of upper secondary school age,2017,19.208811,Male,,%,,,,Total
+Haiti,HT,HTI,332,Adjusted net attendance rate for youth of upper secondary school age,2017,21.212839,Total,,%,,,,Total
+Honduras,HN,HND,340,Adjusted net attendance rate for youth of upper secondary school age,2019,41.09795,Female,,%,,,,Total
+Honduras,HN,HND,340,Adjusted net attendance rate for youth of upper secondary school age,2019,34.187561,Male,,%,,,,Total
+Honduras,HN,HND,340,Adjusted net attendance rate for youth of upper secondary school age,2019,37.626999,Total,,%,,,,Total
+India,IN,IND,356,Adjusted net attendance rate for youth of upper secondary school age,2016,62.099998,Female,,%,,,,Total
+India,IN,IND,356,Adjusted net attendance rate for youth of upper secondary school age,2016,66.300003,Male,,%,,,,Total
+India,IN,IND,356,Adjusted net attendance rate for youth of upper secondary school age,2016,64.300003,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Adjusted net attendance rate for youth of upper secondary school age,2017,70.81076,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Adjusted net attendance rate for youth of upper secondary school age,2017,63.459419,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Adjusted net attendance rate for youth of upper secondary school age,2017,67.035721,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Adjusted net attendance rate for youth of upper secondary school age,2018,35.299999,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Adjusted net attendance rate for youth of upper secondary school age,2018,31,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Adjusted net attendance rate for youth of upper secondary school age,2018,33.099998,Total,,%,,,,Total
+Jamaica,JM,JAM,388,Adjusted net attendance rate for youth of upper secondary school age,2011,77.599998,Female,,%,,,,Total
+Jamaica,JM,JAM,388,Adjusted net attendance rate for youth of upper secondary school age,2011,74.199997,Male,,%,,,,Total
+Jamaica,JM,JAM,388,Adjusted net attendance rate for youth of upper secondary school age,2011,75.900002,Total,,%,,,,Total
+Jordan,JO,JOR,400,Adjusted net attendance rate for youth of upper secondary school age,2018,74.790131,Female,,%,,,,Total
+Jordan,JO,JOR,400,Adjusted net attendance rate for youth of upper secondary school age,2018,66.838043,Male,,%,,,,Total
+Jordan,JO,JOR,400,Adjusted net attendance rate for youth of upper secondary school age,2018,70.766823,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Adjusted net attendance rate for youth of upper secondary school age,2015,96.199997,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Adjusted net attendance rate for youth of upper secondary school age,2015,95.199997,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Adjusted net attendance rate for youth of upper secondary school age,2015,95.599998,Total,,%,,,,Total
+Kenya,KE,KEN,404,Adjusted net attendance rate for youth of upper secondary school age,2014,36.799999,Female,,%,,,,Total
+Kenya,KE,KEN,404,Adjusted net attendance rate for youth of upper secondary school age,2014,34.299999,Male,,%,,,,Total
+Kenya,KE,KEN,404,Adjusted net attendance rate for youth of upper secondary school age,2014,35.5,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Adjusted net attendance rate for youth of upper secondary school age,2019,63.865829,Female,,%,,,,Total
+Kiribati,KI,KIR,296,Adjusted net attendance rate for youth of upper secondary school age,2019,45.6917,Male,,%,,,,Total
+Kiribati,KI,KIR,296,Adjusted net attendance rate for youth of upper secondary school age,2019,54.146461,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Adjusted net attendance rate for youth of upper secondary school age,2018,85.300003,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Adjusted net attendance rate for youth of upper secondary school age,2018,88.099998,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Adjusted net attendance rate for youth of upper secondary school age,2018,86.699997,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Adjusted net attendance rate for youth of upper secondary school age,2017,38.599998,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Adjusted net attendance rate for youth of upper secondary school age,2017,37.599998,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Adjusted net attendance rate for youth of upper secondary school age,2017,38.099998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Adjusted net attendance rate for youth of upper secondary school age,2018,30.4,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Adjusted net attendance rate for youth of upper secondary school age,2018,14.9,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Adjusted net attendance rate for youth of upper secondary school age,2018,22.4,Total,,%,,,,Total
+Liberia,LR,LBR,430,Adjusted net attendance rate for youth of upper secondary school age,2013,11.3,Female,,%,,,,Total
+Liberia,LR,LBR,430,Adjusted net attendance rate for youth of upper secondary school age,2013,11.7,Male,,%,,,,Total
+Liberia,LR,LBR,430,Adjusted net attendance rate for youth of upper secondary school age,2013,11.5,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Adjusted net attendance rate for youth of upper secondary school age,2018,14.1,Female,,%,,,,Total
+Madagascar,MG,MDG,450,Adjusted net attendance rate for youth of upper secondary school age,2018,11.4,Male,,%,,,,Total
+Madagascar,MG,MDG,450,Adjusted net attendance rate for youth of upper secondary school age,2018,12.8,Total,,%,,,,Total
+Malawi,MW,MWI,454,Adjusted net attendance rate for youth of upper secondary school age,2016,18.4,Female,,%,,,,Total
+Malawi,MW,MWI,454,Adjusted net attendance rate for youth of upper secondary school age,2016,16.700001,Male,,%,,,,Total
+Malawi,MW,MWI,454,Adjusted net attendance rate for youth of upper secondary school age,2016,17.4,Total,,%,,,,Total
+Maldives,MV,MDV,462,Adjusted net attendance rate for youth of upper secondary school age,2017,41,Female,,%,,,,Total
+Maldives,MV,MDV,462,Adjusted net attendance rate for youth of upper secondary school age,2017,28.299999,Male,,%,,,,Total
+Maldives,MV,MDV,462,Adjusted net attendance rate for youth of upper secondary school age,2017,34.900002,Total,,%,,,,Total
+Mali,ML,MLI,466,Adjusted net attendance rate for youth of upper secondary school age,2015,14.3,Female,,%,,,,Total
+Mali,ML,MLI,466,Adjusted net attendance rate for youth of upper secondary school age,2015,20.4,Male,,%,,,,Total
+Mali,ML,MLI,466,Adjusted net attendance rate for youth of upper secondary school age,2015,17.299999,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Adjusted net attendance rate for youth of upper secondary school age,2015,17.98534,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Adjusted net attendance rate for youth of upper secondary school age,2015,22.30563,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Adjusted net attendance rate for youth of upper secondary school age,2015,20.021891,Total,,%,,,,Total
+Mexico,MX,MEX,484,Adjusted net attendance rate for youth of upper secondary school age,2018,70.300003,Female,,%,,,,Total
+Mexico,MX,MEX,484,Adjusted net attendance rate for youth of upper secondary school age,2018,65.699997,Male,,%,,,,Total
+Mexico,MX,MEX,484,Adjusted net attendance rate for youth of upper secondary school age,2018,68,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Adjusted net attendance rate for youth of upper secondary school age,2018,91,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Adjusted net attendance rate for youth of upper secondary school age,2018,82.400002,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Adjusted net attendance rate for youth of upper secondary school age,2018,86.5,Total,,%,,,,Total
+Montenegro,ME,MNE,499,Adjusted net attendance rate for youth of upper secondary school age,2018,89.403976,Female,,%,,,,Total
+Montenegro,ME,MNE,499,Adjusted net attendance rate for youth of upper secondary school age,2018,85.338814,Male,,%,,,,Total
+Montenegro,ME,MNE,499,Adjusted net attendance rate for youth of upper secondary school age,2018,87.369423,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Adjusted net attendance rate for youth of upper secondary school age,2011,3.4000001,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Adjusted net attendance rate for youth of upper secondary school age,2011,3.4000001,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Adjusted net attendance rate for youth of upper secondary school age,2011,3.4000001,Total,,%,,,,Total
+Myanmar,MM,MMR,104,Adjusted net attendance rate for youth of upper secondary school age,2016,40.900002,Female,,%,,,,Total
+Burma,MM,MMR,104,Adjusted net attendance rate for youth of upper secondary school age,2016,40.900002,Female,,%,,,,Total
+Myanmar,MM,MMR,104,Adjusted net attendance rate for youth of upper secondary school age,2016,29.9,Male,,%,,,,Total
+Burma,MM,MMR,104,Adjusted net attendance rate for youth of upper secondary school age,2016,29.9,Male,,%,,,,Total
+Myanmar,MM,MMR,104,Adjusted net attendance rate for youth of upper secondary school age,2016,35.5,Total,,%,,,,Total
+Burma,MM,MMR,104,Adjusted net attendance rate for youth of upper secondary school age,2016,35.5,Total,,%,,,,Total
+Namibia,,NAM,516,Adjusted net attendance rate for youth of upper secondary school age,2013,28.1,Female,,%,,,,Total
+Namibia,,NAM,516,Adjusted net attendance rate for youth of upper secondary school age,2013,20.200001,Male,,%,,,,Total
+Namibia,,NAM,516,Adjusted net attendance rate for youth of upper secondary school age,2013,24.4,Total,,%,,,,Total
+Nepal,NP,NPL,524,Adjusted net attendance rate for youth of upper secondary school age,2019,48.97398,Female,,%,,,,Total
+Nepal,NP,NPL,524,Adjusted net attendance rate for youth of upper secondary school age,2019,45.711418,Male,,%,,,,Total
+Nepal,NP,NPL,524,Adjusted net attendance rate for youth of upper secondary school age,2019,47.402439,Total,,%,,,,Total
+Niger,NE,NER,562,Adjusted net attendance rate for youth of upper secondary school age,2012,2.8,Female,,%,,,,Total
+Niger,NE,NER,562,Adjusted net attendance rate for youth of upper secondary school age,2012,5.5,Male,,%,,,,Total
+Niger,NE,NER,562,Adjusted net attendance rate for youth of upper secondary school age,2012,3.9000001,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Adjusted net attendance rate for youth of upper secondary school age,2018,35,Female,,%,,,,Total
+Nigeria,NG,NGA,566,Adjusted net attendance rate for youth of upper secondary school age,2018,34,Male,,%,,,,Total
+Nigeria,NG,NGA,566,Adjusted net attendance rate for youth of upper secondary school age,2018,34.5,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Adjusted net attendance rate for youth of upper secondary school age,2019,91.166924,Female,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Adjusted net attendance rate for youth of upper secondary school age,2019,89.728172,Male,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Adjusted net attendance rate for youth of upper secondary school age,2019,90.448921,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Adjusted net attendance rate for youth of upper secondary school age,2018,29.396191,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Adjusted net attendance rate for youth of upper secondary school age,2018,35.865299,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Adjusted net attendance rate for youth of upper secondary school age,2018,32.614941,Total,,%,,,,Total
+Panama,PA,PAN,591,Adjusted net attendance rate for youth of upper secondary school age,2013,70.199997,Female,,%,,,,Total
+Panama,PA,PAN,591,Adjusted net attendance rate for youth of upper secondary school age,2013,55.400002,Male,,%,,,,Total
+Panama,PA,PAN,591,Adjusted net attendance rate for youth of upper secondary school age,2013,62,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Adjusted net attendance rate for youth of upper secondary school age,2017,65,Female,,%,,,,Total
+Paraguay,PY,PRY,600,Adjusted net attendance rate for youth of upper secondary school age,2017,61.400002,Male,,%,,,,Total
+Paraguay,PY,PRY,600,Adjusted net attendance rate for youth of upper secondary school age,2017,63,Total,,%,,,,Total
+Peru,PE,PER,604,Adjusted net attendance rate for youth of upper secondary school age,2012,66.800003,Female,,%,,,,Total
+Peru,PE,PER,604,Adjusted net attendance rate for youth of upper secondary school age,2012,65.099998,Male,,%,,,,Total
+Peru,PE,PER,604,Adjusted net attendance rate for youth of upper secondary school age,2012,65.900002,Total,,%,,,,Total
+Philippines,PH,PHL,608,Adjusted net attendance rate for youth of upper secondary school age,2017,53.47435,Female,,%,,,,Total
+Philippines,PH,PHL,608,Adjusted net attendance rate for youth of upper secondary school age,2017,31.420349,Male,,%,,,,Total
+Philippines,PH,PHL,608,Adjusted net attendance rate for youth of upper secondary school age,2017,40.97438,Total,,%,,,,Total
+Qatar,QA,QAT,634,Adjusted net attendance rate for youth of upper secondary school age,2012,87.991928,Female,,%,,,,Total
+Qatar,QA,QAT,634,Adjusted net attendance rate for youth of upper secondary school age,2012,87.362442,Male,,%,,,,Total
+Qatar,QA,QAT,634,Adjusted net attendance rate for youth of upper secondary school age,2012,87.665459,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Adjusted net attendance rate for youth of upper secondary school age,2012,73,Female,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Adjusted net attendance rate for youth of upper secondary school age,2012,61.700001,Male,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Adjusted net attendance rate for youth of upper secondary school age,2012,67.599998,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Adjusted net attendance rate for youth of upper secondary school age,2015,17.200001,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Adjusted net attendance rate for youth of upper secondary school age,2015,12.5,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Adjusted net attendance rate for youth of upper secondary school age,2015,14.8,Total,,%,,,,Total
+Saint Lucia,LC,LCA,662,Adjusted net attendance rate for youth of upper secondary school age,2012,90.199997,Female,,%,,,,Total
+Saint Lucia,LC,LCA,662,Adjusted net attendance rate for youth of upper secondary school age,2012,78.699997,Male,,%,,,,Total
+Saint Lucia,LC,LCA,662,Adjusted net attendance rate for youth of upper secondary school age,2012,83.900002,Total,,%,,,,Total
+Samoa,WS,WSM,882,Adjusted net attendance rate for youth of upper secondary school age,2020,80.307114,Female,,%,,,,Total
+Samoa,WS,WSM,882,Adjusted net attendance rate for youth of upper secondary school age,2020,66.299957,Male,,%,,,,Total
+Samoa,WS,WSM,882,Adjusted net attendance rate for youth of upper secondary school age,2020,73.094292,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Adjusted net attendance rate for youth of upper secondary school age,2019,34.26363,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Adjusted net attendance rate for youth of upper secondary school age,2019,25.236719,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Adjusted net attendance rate for youth of upper secondary school age,2019,29.836,Total,,%,,,,Total
+Senegal,SN,SEN,686,Adjusted net attendance rate for youth of upper secondary school age,2019,17.84507,Female,,%,,,,Total
+Senegal,SN,SEN,686,Adjusted net attendance rate for youth of upper secondary school age,2019,16.78944,Male,,%,,,,Total
+Senegal,SN,SEN,686,Adjusted net attendance rate for youth of upper secondary school age,2019,17.33967,Total,,%,,,,Total
+Serbia,RS,SRB,688,Adjusted net attendance rate for youth of upper secondary school age,2019,93.348763,Female,,%,,,,Total
+Serbia,RS,SRB,688,Adjusted net attendance rate for youth of upper secondary school age,2019,94.704071,Male,,%,,,,Total
+Serbia,RS,SRB,688,Adjusted net attendance rate for youth of upper secondary school age,2019,94.081596,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Adjusted net attendance rate for youth of upper secondary school age,2017,27.5,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Adjusted net attendance rate for youth of upper secondary school age,2017,29.9,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Adjusted net attendance rate for youth of upper secondary school age,2017,28.6,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Adjusted net attendance rate for youth of upper secondary school age,2016,72.273514,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Adjusted net attendance rate for youth of upper secondary school age,2016,67.230148,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Adjusted net attendance rate for youth of upper secondary school age,2016,69.730507,Total,,%,,,,Total
+South Sudan,SS,SSD,728,Adjusted net attendance rate for youth of upper secondary school age,2010,2.8,Female,,%,,,,Total
+South Sudan,SS,SSD,728,Adjusted net attendance rate for youth of upper secondary school age,2010,6.4000001,Male,,%,,,,Total
+South Sudan,SS,SSD,728,Adjusted net attendance rate for youth of upper secondary school age,2010,4.5,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Adjusted net attendance rate for youth of upper secondary school age,2016,76.970009,Female,,%,,,,Total
+Sri Lanka,LK,LKA,144,Adjusted net attendance rate for youth of upper secondary school age,2016,68.269363,Male,,%,,,,Total
+Sri Lanka,LK,LKA,144,Adjusted net attendance rate for youth of upper secondary school age,2016,72.66362,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Adjusted net attendance rate for youth of upper secondary school age,2020,80.541817,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Adjusted net attendance rate for youth of upper secondary school age,2020,63.76247,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Adjusted net attendance rate for youth of upper secondary school age,2020,71.336884,Total,,%,,,,Total
+Sudan,SD,SDN,736,Adjusted net attendance rate for youth of upper secondary school age,2014,30.299999,Female,,%,,,,Total
+Sudan,SD,SDN,736,Adjusted net attendance rate for youth of upper secondary school age,2014,27.799999,Male,,%,,,,Total
+Sudan,SD,SDN,736,Adjusted net attendance rate for youth of upper secondary school age,2014,29.1,Total,,%,,,,Total
+Suriname,SR,SUR,740,Adjusted net attendance rate for youth of upper secondary school age,2018,38.799999,Female,,%,,,,Total
+Suriname,SR,SUR,740,Adjusted net attendance rate for youth of upper secondary school age,2018,22.4,Male,,%,,,,Total
+Suriname,SR,SUR,740,Adjusted net attendance rate for youth of upper secondary school age,2018,30.5,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Adjusted net attendance rate for youth of upper secondary school age,2017,73.622787,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Adjusted net attendance rate for youth of upper secondary school age,2017,87.399429,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Adjusted net attendance rate for youth of upper secondary school age,2017,80.459358,Total,,%,,,,Total
+Thailand,TH,THA,764,Adjusted net attendance rate for youth of upper secondary school age,2019,76.608147,Female,,%,,,,Total
+Thailand,TH,THA,764,Adjusted net attendance rate for youth of upper secondary school age,2019,62.33952,Male,,%,,,,Total
+Thailand,TH,THA,764,Adjusted net attendance rate for youth of upper secondary school age,2019,69.589973,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Adjusted net attendance rate for youth of upper secondary school age,2016,43.59766,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Adjusted net attendance rate for youth of upper secondary school age,2016,32.377861,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Adjusted net attendance rate for youth of upper secondary school age,2016,37.700562,Total,,%,,,,Total
+Togo,TG,TGO,768,Adjusted net attendance rate for youth of upper secondary school age,2017,20.37907,Female,,%,,,,Total
+Togo,TG,TGO,768,Adjusted net attendance rate for youth of upper secondary school age,2017,26.690359,Male,,%,,,,Total
+Togo,TG,TGO,768,Adjusted net attendance rate for youth of upper secondary school age,2017,23.749411,Total,,%,,,,Total
+Tonga,TO,TON,776,Adjusted net attendance rate for youth of upper secondary school age,2019,64.166672,Female,,%,,,,Total
+Tonga,TO,TON,776,Adjusted net attendance rate for youth of upper secondary school age,2019,45.135818,Male,,%,,,,Total
+Tonga,TO,TON,776,Adjusted net attendance rate for youth of upper secondary school age,2019,55.45377,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Adjusted net attendance rate for youth of upper secondary school age,2018,68.599998,Female,,%,,,,Total
+Tunisia,TN,TUN,788,Adjusted net attendance rate for youth of upper secondary school age,2018,50.200001,Male,,%,,,,Total
+Tunisia,TN,TUN,788,Adjusted net attendance rate for youth of upper secondary school age,2018,59.299999,Total,,%,,,,Total
+Turkmenistan,TM,TKM,795,Adjusted net attendance rate for youth of upper secondary school age,2019,95.265373,Female,,%,,,,Total
+Turkmenistan,TM,TKM,795,Adjusted net attendance rate for youth of upper secondary school age,2019,95.717331,Male,,%,,,,Total
+Turkmenistan,TM,TKM,795,Adjusted net attendance rate for youth of upper secondary school age,2019,95.49913,Total,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Adjusted net attendance rate for youth of upper secondary school age,2020,75.364441,Female,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Adjusted net attendance rate for youth of upper secondary school age,2020,74.419746,Male,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Adjusted net attendance rate for youth of upper secondary school age,2020,74.747612,Total,,%,,,,Total
+Tuvalu,TV,TUV,798,Adjusted net attendance rate for youth of upper secondary school age,2020,54.95715,Female,,%,,,,Total
+Tuvalu,TV,TUV,798,Adjusted net attendance rate for youth of upper secondary school age,2020,32.23119,Male,,%,,,,Total
+Tuvalu,TV,TUV,798,Adjusted net attendance rate for youth of upper secondary school age,2020,43.43544,Total,,%,,,,Total
+Uganda,UG,UGA,800,Adjusted net attendance rate for youth of upper secondary school age,2016,7.0999999,Female,,%,,,,Total
+Uganda,UG,UGA,800,Adjusted net attendance rate for youth of upper secondary school age,2016,8.6000004,Male,,%,,,,Total
+Uganda,UG,UGA,800,Adjusted net attendance rate for youth of upper secondary school age,2016,7.8000002,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Adjusted net attendance rate for youth of upper secondary school age,2012,70.199997,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Adjusted net attendance rate for youth of upper secondary school age,2012,60.400002,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Adjusted net attendance rate for youth of upper secondary school age,2012,64.900002,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Adjusted net attendance rate for youth of upper secondary school age,2016,3,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Adjusted net attendance rate for youth of upper secondary school age,2016,3.2,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Adjusted net attendance rate for youth of upper secondary school age,2016,3.0999999,Total,,%,,,,Total
+Uruguay,UY,URY,858,Adjusted net attendance rate for youth of upper secondary school age,2013,54.200001,Female,,%,,,,Total
+Uruguay,UY,URY,858,Adjusted net attendance rate for youth of upper secondary school age,2013,32.700001,Male,,%,,,,Total
+Uruguay,UY,URY,858,Adjusted net attendance rate for youth of upper secondary school age,2013,42.400002,Total,,%,,,,Total
+Viet Nam,VN,VNM,704,Adjusted net attendance rate for youth of upper secondary school age,2014,74.300003,Female,,%,,,,Total
+Vietnam,VN,VNM,704,Adjusted net attendance rate for youth of upper secondary school age,2014,74.300003,Female,,%,,,,Total
+Viet Nam,VN,VNM,704,Adjusted net attendance rate for youth of upper secondary school age,2014,67.099998,Male,,%,,,,Total
+Vietnam,VN,VNM,704,Adjusted net attendance rate for youth of upper secondary school age,2014,67.099998,Male,,%,,,,Total
+Viet Nam,VN,VNM,704,Adjusted net attendance rate for youth of upper secondary school age,2014,70.699997,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Adjusted net attendance rate for youth of upper secondary school age,2014,70.699997,Total,,%,,,,Total
+Yemen,YE,YEM,887,Adjusted net attendance rate for youth of upper secondary school age,2013,25.200001,Female,,%,,,,Total
+Yemen,YE,YEM,887,Adjusted net attendance rate for youth of upper secondary school age,2013,33.599998,Male,,%,,,,Total
+Yemen,YE,YEM,887,Adjusted net attendance rate for youth of upper secondary school age,2013,29.299999,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Adjusted net attendance rate for youth of upper secondary school age,2018,28.568859,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Adjusted net attendance rate for youth of upper secondary school age,2018,29.752609,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Adjusted net attendance rate for youth of upper secondary school age,2018,29.14558,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Adjusted net attendance rate for youth of upper secondary school age,2019,36.400002,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Adjusted net attendance rate for youth of upper secondary school age,2019,37.299999,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Adjusted net attendance rate for youth of upper secondary school age,2019,36.900002,Total,,%,,,,Total
